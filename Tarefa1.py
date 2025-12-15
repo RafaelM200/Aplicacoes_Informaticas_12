@@ -5,8 +5,8 @@ LSup=int(input("Qual o limite superior\n"))
 
 
 while LSup > LInf:
-    LSup = LInf + 1
-    print("O intervalo é,")
+    LInf= LInf + 1
+    print(LInf)
 
 
 if LInf > LSup:

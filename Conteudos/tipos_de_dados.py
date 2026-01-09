@@ -1,3 +1,8 @@
+# Tipos de dados em Python
+# int, float, complex, str, bool, list, tuple, set, dict
+# Disciplina: Aplicações Informáticas
+# Autor: Rafael M.
+
 i=90
 f=1.5
 c=2+3j

@@ -1,3 +1,8 @@
+# Demonstração de operadores relacionais em Python
+# Operadores: ==, !=, <, >, <=, >=
+# Disciplina: Aplicações Informáticas
+# Autor: Rafael M.
+
 a=13
 b=5
 print("Operadores Relacionais  (==, !=, <, >, <=, >=)")

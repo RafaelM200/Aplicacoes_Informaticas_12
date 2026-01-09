@@ -1,3 +1,7 @@
+# Verificação de número par ou ímpar
+# Disciplina: Aplicações Informáticas
+# Autor: Rafael M.
+
 num= input ("Escreva o Número Par:")
 
 if int(num) % 2==0:

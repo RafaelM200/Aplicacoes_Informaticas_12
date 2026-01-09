@@ -1,3 +1,7 @@
+# Conversão de horas, minutos e segundos para segundos
+# Disciplina: Aplicações Informáticas
+# Autor: Rafael M.
+
 seg= float(input ( "Quantos segundos: "))
 while not(seg>1 and seg<=60):
     seg = float(input("Escolha o valor entre 1 e 60: "))
@@ -10,5 +14,5 @@ hor= float(input ( "Quantas horas : "))
 while not(hor>1 and hor<=60):
     hor = float(input("Escolha o valor entre 1 e 60: "))
 
-valor=seg+(min*60)+(hor*60)
+valor=seg+(min*60)+(hor*3600)
 print ( "O valor dos segundo", valor)

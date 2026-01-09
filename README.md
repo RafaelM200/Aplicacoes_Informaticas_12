@@ -1,15 +1,14 @@
 # Aplicações Informáticas – 12.º Ano
 
-Repositório com exercícios e conteúdos da disciplina de Aplicações Informáticas.
+Repositório com exercícios, exemplos e respostas da disciplina de Aplicações Informáticas.
 
 ## Estrutura
-- Exercicios – exercícios práticos
-- Fichas – fichas de trabalho
-- Conteudos – matéria dado em aula
-- Slides – exemplos dos slides
+- Exercicios – exercícios práticos com input/output
+- Conteudos – exemplos de código e demonstrações
+- Respostas –   respostas a perguntas dos PDFs
 
 ## Linguagem
-Python 
+Python 3
 
 ## Autor
 Rafael M.

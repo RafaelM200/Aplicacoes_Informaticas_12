@@ -1,3 +1,8 @@
+# Demonstração de operadores lógicos em Python
+# Operadores: and, or, not
+# Disciplina: Aplicações Informáticas
+# Autor: Rafael M.
+
 x=13
 y=5
 z=2

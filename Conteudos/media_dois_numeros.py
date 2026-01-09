@@ -1,3 +1,7 @@
+# Cálculo da média de dois números
+# Disciplina: Aplicações Informáticas
+# Autor: Rafael M.
+
 num1= float(input ( "Digite o 1.0 número : "))
 num2= float(input ( "Digite o 2.0 número : "))
 

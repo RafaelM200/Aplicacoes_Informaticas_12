@@ -1,3 +1,8 @@
+# Exemplos de funções internas do Python
+# abs, ord, chr, bin, divmod, len, round
+# Disciplina: Aplicações Informáticas
+# Autor: Rafael M.
+
 numeros=[1,3,5,7,8,6,10,56,23,4,14]
 absoluto= abs (-4)
 n_ordem=ord("A")

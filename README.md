@@ -5,7 +5,6 @@ Repositório com exercícios, exemplos e respostas da disciplina de Aplicações
 ## Estrutura
 - Exercicios – exercícios práticos com input/output
 - Conteudos – exemplos de código e demonstrações
-- Respostas –  respostas a perguntas dos PDFs
 
 ## Linguagem
 Python 3

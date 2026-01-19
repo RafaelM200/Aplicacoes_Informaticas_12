@@ -1,3 +1,7 @@
+# Desenho de circunferências com a biblioteca turtle
+# Disciplina: Aplicações Informáticas
+# Autor: Rafael M.
+
 import turtle
 
 def circunferencia (cor, x,y,veloc,raio):
@@ -10,8 +14,9 @@ def circunferencia (cor, x,y,veloc,raio):
 
 turtle.reset()
 circunferencia("red",0,0,100,100)
-circunferencia("black",-100,0,100,40)
+circunferencia("black",-100,0,100,40)   
 circunferencia("green",0,-100,100,40)
 circunferencia("gray",100,0,100,40)
 circunferencia("blue",0,100,100,40)
 turtle.goto(-100,0)
+turtle.done()

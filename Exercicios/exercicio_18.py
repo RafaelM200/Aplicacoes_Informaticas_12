@@ -2,7 +2,7 @@
 # Permite operações: +, -, *, /, //, %, **
 # Disciplina: Aplicações Informáticas
 # Autor: Rafael M.
-
+    
 a=int(input("Qual o primeiro valor?\n"))
 b=int(input("Qual o segundo valor?\n"))
 c=(input("Qual a operacao logica(+, -, *, /, //, %, **)\n"))

@@ -4,8 +4,8 @@
 
 
 # Leitura dos dois números 
-a1 = int(input("Qual o primeiro valor:"))
-a2 = int(input("Qual o segundo valor:"))
+a1 = float(input("Qual o primeiro valor:"))
+a2 = float(input("Qual o segundo valor:"))
 
 # Menu de opções
 print("Menu de operações:")

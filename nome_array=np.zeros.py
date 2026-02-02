@@ -1,3 +1,7 @@
+# Criação de arrays com zeros usando NumPy
+# Disciplina: Aplicações Informáticas
+# Autor: Rafael M.
+
 import numpy as np
 """Array bidimensional, 2 linhas e
 4 colunas, criado e inicializado a zeros"""

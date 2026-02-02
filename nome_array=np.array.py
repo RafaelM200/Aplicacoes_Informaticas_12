@@ -1,3 +1,7 @@
+# Criação de arrays NumPy a partir de listas e tuplos
+# Disciplina: Aplicações Informáticas
+# Autor: Rafael M.
+
 import numpy as np
 
 #Array criado a partir de uma list

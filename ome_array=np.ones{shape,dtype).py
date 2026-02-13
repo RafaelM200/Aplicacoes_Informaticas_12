@@ -1,3 +1,4 @@
+
 import numpy as np
 """Array bidimensional, 3 linhas e
 2 colunas, criado e inicializado a uns"""
